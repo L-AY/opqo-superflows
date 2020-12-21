@@ -23,11 +23,11 @@ This package allows you to generate automatically Orders from Opportunities and 
 ![One Click Order (Quick Buy)](opqo-order-quickbuy.gif)
 
 ## Background / Problem - Detail
- **Generate Orders (w/ Quotes)** - https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3000000B5iwHEAR  - is an add-on AppExchange package which allows the automatic generation of orders from Opportunities or Quotes. 
+*Generate Orders (w/ Quotes)* - https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3000000B5iwHEAR  - is an add-on AppExchange package which allows the automatic generation of orders from Opportunities or Quotes. 
 
 The above package's latest release was on 9/23/2014. 
 
-*I used the the above mentioned package in a recent client engagement and found it suboptimal  - it is not straightforward configuration as expected and thus it would work sometimes, whilst at fail other times.* 
+I used the the above mentioned package in a recent client engagement and found it suboptimal  - it is not straightforward configuration as expected and thus it would work sometimes, whilst fail at other times. 
 
 Thus, I wanted to optimize this inefficiency and provide easier configuration for users.
 
