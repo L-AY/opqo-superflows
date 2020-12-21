@@ -27,9 +27,9 @@ This package allows you to generate automatically Orders from Opportunities and 
 
 The above package's latest release was on 9/23/2014. 
 
-I used the the above mentioned package in a recent client engagement and found it suboptimal  - it is not straightforward configuration as expected and thus it would work sometimes, whilst fail at other times. 
+I used the the above mentioned package in a recent client engagement and found it suboptimal  - it is not straightforward configuration as expected and thus it would work sometimes, whilst fail at other times. Additionally, all of are autolaunched flows and thus provide no intuitive user experience upon record creation - there is no auto navigating to the newly created records.
 
-Thus, I wanted to optimize this inefficiency and provide easier configuration for users.
+Thus, I wanted to optimize this inefficiency by providing easier configuration for admins, and a more user friendly experience for end users.
 
 ## Resolution
 
